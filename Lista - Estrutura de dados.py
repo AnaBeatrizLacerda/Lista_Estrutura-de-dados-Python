@@ -132,7 +132,7 @@ match(input("Escolha a operação: +, -, * ou /")):
     case _:
         print("Operação inválida, tente novamente")
 
-EXERCICIO 10
+#EXERCICIO 10
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))
 nota3 = float(input("Digite a terceira nota: "))
